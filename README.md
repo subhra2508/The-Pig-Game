@@ -1,4 +1,4 @@
-# THE PIG GAME
+#                   THE PIG GAME
 
 ## RULES OF THE GAME
 
